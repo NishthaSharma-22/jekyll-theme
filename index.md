@@ -1,4 +1,6 @@
 ---
+title: "Blue Moonlight Theme"
 ---
 
-# tonic-starter
+# blue-moonlight
+A gentle Jekyll theme crafted with soft whites and calming blues.
