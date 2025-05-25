@@ -1,5 +1,5 @@
 ---
-title: "Blue Moonlight Theme"
+title: "Blue Moonlight"
 ---
 
 # blue-moonlight

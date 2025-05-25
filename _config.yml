@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Blue Moonlight
+description: "A gentle Jekyll theme crafted with soft whites and calming blues."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
