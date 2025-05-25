@@ -1,5 +1,6 @@
 ---
 title: "Blue Moonlight"
+layout: default
 ---
 
 # blue-moonlight
